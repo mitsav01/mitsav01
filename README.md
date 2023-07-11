@@ -3,7 +3,7 @@
 
 <h1>Welcome to my coding sanctuary, where lines of code come to life..</h1> 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://github.com/mitsav01/mitsav01/blob/079cf7d2080756d03494c758c319d40fe2c871e3/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-miteshsavsaviya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/mitsav)](www.linkedin.com/in/mitsav) [![Gmail Badge](https://img.shields.io/badge/-miteshsavsaviya01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miteshsavsaviya01@gmail.com)](mailto:miteshsavsaviya01@gmail.com) 
 
