@@ -40,9 +40,9 @@
 		return Bremen_Germany()
 	
 	def Ambitions():
-		LearnFrench()
-		Beinashape()
-		Exploretheworld()
+		LearnNewLanguages()
+		BeInAShape()
+		ExploreTheWorld()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
