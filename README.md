@@ -53,7 +53,7 @@
 ## Current Works
  * Started learning PyTorch!!
  * I'm currently learning **Motion Planning Algorithms for Robots in ROS** and working up on polishing my skills 🌱 in **Robot Programming**.
- * Getting Started with PyTorch!!
+ * Getting Started with ROS2!!
  
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSshare_link)
