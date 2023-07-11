@@ -1,5 +1,4 @@
-## Hey, [Mitesh here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
-## Waving <a id="waving">
+
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey,%20Mitesh%20here!&fontAlign=60&fontAlignY=40&color=gradient)
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
