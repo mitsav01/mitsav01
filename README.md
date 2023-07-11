@@ -8,9 +8,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-miteshsavsaviya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/mitsav)](www.linkedin.com/in/mitsav) [![Gmail Badge](https://img.shields.io/badge/-miteshsavsaviya01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miteshsavsaviya01@gmail.com)](mailto:miteshsavsaviya01@gmail.com) 
 
 
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+<div style="text-align: right">"Master of the Digital Realm: Weaving Code into Magic🪄".. </div>
 
-## :computer: Technologies I Love
+## :computer: Technologies I Love👨‍💻
 * Robot Operating System
 * Artificial intelligence
 * Machine Learning
