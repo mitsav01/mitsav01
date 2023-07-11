@@ -19,13 +19,11 @@
 * Sensor fusion
 
 
-
 ## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+<img src = 'https://github.com/mitsav01/mitsav01/blob/13048e19be1f55ff91b5860c6ba2fe8d84bf96b4/images/python-logo-generic.svg' width='120'/> <img src = 'https://github.com/mitsav01/mitsav01/blob/13048e19be1f55ff91b5860c6ba2fe8d84bf96b4/images/cpp_logo.svg' width='30'/> <img src = 'https://github.com/mitsav01/mitsav01/blob/13048e19be1f55ff91b5860c6ba2fe8d84bf96b4/images/sql.svg' width='40'/> 
  
  ## Technologies I Use
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
+ <img src = 'https://github.com/mitsav01/mitsav01/blob/13048e19be1f55ff91b5860c6ba2fe8d84bf96b4/images/ROS_logo_white.svg' width='90'/>  <img src = 'https://github.com/mitsav01/mitsav01/blob/13048e19be1f55ff91b5860c6ba2fe8d84bf96b4/images/pytorch-logo-flame.svg' height='30'/><img src = 'https://github.com/mitsav01/mitsav01/blob/13048e19be1f55ff91b5860c6ba2fe8d84bf96b4/images/git.svg' width='30'/> <img src = 'https://github.com/mitsav01/mitsav01/blob/4a20cf6f77baf3eaf852b8385b13cd7a8de2752f/images/matlab-svgrepo-com.svg' height='40'/> 
  
  ## Who am I?
  ```python
@@ -51,8 +49,8 @@
  ```
  
 ## Current Works
- * Started learning PyTorch!!
- * I'm currently learning **Motion Planning Algorithms for Robots in ROS** and working up on polishing my skills 🌱 in **Robot Programming**.
+ * Started learning PyTorch and Julia!!
+ * I'm currently learning **Motion Planning Algorithms for Robots in ROS** and working up on polishing my skills 🤖 in **Robot Programming with Lisp**.
  * Getting Started with ROS2!!
  
 ## Other Stuff
