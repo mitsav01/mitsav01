@@ -1,7 +1,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey,%20Mitesh%20here!&fontAlign=60&fontAlignY=40&color=gradient)
 
-<h1>Welcome to my humble abode in the Digital World..</h1> 
+<h1>Welcome to my coding sanctuary, where lines of code come to life..</h1> 
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
