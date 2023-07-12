@@ -12,6 +12,7 @@
 
 ## :computer: Technologies I Love👨‍💻
 * Robot Operating System
+* Computer Vision
 * Artificial intelligence
 * Machine Learning
 * Reinforcement learning
@@ -22,7 +23,7 @@
 <img src = 'https://github.com/mitsav01/mitsav01/blob/13048e19be1f55ff91b5860c6ba2fe8d84bf96b4/images/python-logo-generic.svg' width='120'/> <img src = 'https://github.com/mitsav01/mitsav01/blob/13048e19be1f55ff91b5860c6ba2fe8d84bf96b4/images/cpp_logo.svg' width='30'/> <img src = 'https://github.com/mitsav01/mitsav01/blob/13048e19be1f55ff91b5860c6ba2fe8d84bf96b4/images/sql.svg' width='40'/> 
  
  ## Technologies I Use
- <img src = 'https://github.com/mitsav01/mitsav01/blob/13048e19be1f55ff91b5860c6ba2fe8d84bf96b4/images/ROS_logo_white.svg' width='90'/>  <img src = 'https://github.com/mitsav01/mitsav01/blob/13048e19be1f55ff91b5860c6ba2fe8d84bf96b4/images/pytorch-logo-flame.svg' height='30'/><img src = 'https://github.com/mitsav01/mitsav01/blob/13048e19be1f55ff91b5860c6ba2fe8d84bf96b4/images/git.svg' width='30'/> <img src = 'https://github.com/mitsav01/mitsav01/blob/4a20cf6f77baf3eaf852b8385b13cd7a8de2752f/images/matlab-svgrepo-com.svg' height='40'/> 
+ <img src = 'https://github.com/mitsav01/mitsav01/blob/13048e19be1f55ff91b5860c6ba2fe8d84bf96b4/images/ROS_logo_white.svg' width='90'/>  <img src = 'https://github.com/mitsav01/mitsav01/blob/13048e19be1f55ff91b5860c6ba2fe8d84bf96b4/images/pytorch-logo-flame.svg' height='30'/><img src = 'https://github.com/mitsav01/mitsav01/blob/13048e19be1f55ff91b5860c6ba2fe8d84bf96b4/images/git.svg' width='30'/> <img src = 'https://github.com/mitsav01/mitsav01/blob/4a20cf6f77baf3eaf852b8385b13cd7a8de2752f/images/matlab-svgrepo-com.svg' height='40' height='20'/> <img src='https://github.com/mitsav01/mitsav01/blob/4978681375833a816e6e54f7c4670775b77ee14c/images/ubuntu-logo-2022.svg' width='90'/> 
  
  ## Who am I?
  ```python
