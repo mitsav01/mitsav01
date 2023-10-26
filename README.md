@@ -47,7 +47,7 @@
  
 ## Current Works
  * Started learning Robotic toolbox!!
- * I'm currently learning **Motion Planning Algorithms for Robots in ROS** and working up on polishing my skills 🤖 in **Robot Programming with **.
+ * I'm currently learning **Motion Planning Algorithms for Robots in ROS** and working up on polishing my skills 🤖 in **Robot Programming with ROS**.
  * Getting Started with ROS2!!
  
 ## Other Stuff
