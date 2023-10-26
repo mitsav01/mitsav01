@@ -16,8 +16,6 @@
 * Artificial intelligence
 * Machine Learning
 * Reinforcement learning
-* Sensor fusion
-
 
 ## Programming Languages
 <img src = 'https://github.com/mitsav01/mitsav01/blob/13048e19be1f55ff91b5860c6ba2fe8d84bf96b4/images/python-logo-generic.svg' width='120'/> <img src = 'https://github.com/mitsav01/mitsav01/blob/13048e19be1f55ff91b5860c6ba2fe8d84bf96b4/images/cpp_logo.svg' width='30'/> <img src = 'https://github.com/mitsav01/mitsav01/blob/13048e19be1f55ff91b5860c6ba2fe8d84bf96b4/images/sql.svg' width='40'/> 
@@ -31,11 +29,10 @@
  	user = 'Mitesh Savsaviya'
 		current_work = 'Studying M.Sc in Control,Microsystems and Microelectronics at Universität Bremen'
 		hobbies = [
-				'Watching movies',
+				Being up all Night chasing that ONE BUG...,
 				'Krav Maga',
-				'Inline skates'
-				'Being up all Night chasing that ONE BUG...'
-			]
+				'Inliner Hockey'
+							]
 	
 	def getCity():
 		return Bremen_Germany()
@@ -49,8 +46,8 @@
  ```
  
 ## Current Works
- * Started learning PyTorch and Julia!!
- * I'm currently learning **Motion Planning Algorithms for Robots in ROS** and working up on polishing my skills 🤖 in **Robot Programming with Lisp**.
+ * Started learning Robotic toolbox!!
+ * I'm currently learning **Motion Planning Algorithms for Robots in ROS** and working up on polishing my skills 🤖 in **Robot Programming with **.
  * Getting Started with ROS2!!
  
 ## Other Stuff
