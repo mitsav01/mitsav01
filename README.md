@@ -10,7 +10,9 @@
 
 <div style="text-align: right">"Master of the Digital Realm: Weaving Code into Magic🪄".. </div>
 
-## :computer: Technologies I Love👨‍💻
+<h3>:computer: Technologies I Love👨‍💻</h3>
+
+
 * Robot Operating System
 * Computer Vision
 * Artificial intelligence
